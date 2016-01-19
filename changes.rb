@@ -1,0 +1,1 @@
+puts “Ch-ch-ch-ch-changes (Turn and face the strange)”
